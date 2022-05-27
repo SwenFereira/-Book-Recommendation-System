@@ -7,39 +7,35 @@ Recommender systems are machine learning systems that help users discover new pr
 The Book-Crossing dataset comprises 3 files.
 
 1. Users:
+ 
 ● Data set Contains ‘User-ID’ , ‘Location’, ‘Age’ information’s. 
 ● The Data set Contains 278858 Rows
  
- 2. Ratings: 
+2. Ratings:
+
 ● Data set Contains ‘User-ID’ , ‘ISBN’, ‘Book-Ratings’ information’s. 
 ● The Data set Contains 1149780 Rows
 
 3. Books:
+
 ● Data set Contains 'ISBN', 'Book-Title', 'Book-Author', 'Year-Of-Publication', 'Publisher', 'Image-URL-S', 'Image-URL-M', 'Image-URL-L‘ information’s. 
 ● The Data set Contains 271354 Rows.
 
 The project is executed in 5 main steps:
 
 1.	Data Overview 
-2.	
-3.	Data Preparation
-4.	
-5.	Exploratory Data Analysis 
+2.	Data Preparation	
+3.	Exploratory Data Analysis 
+4.	Model Creation 	
+5.	Evaluation
 
 
-7.	Model Creation 
-8.	
-9.	Evaluation
-
-
-Exploratory data analysis (EDA) was performed to gain better understanding about the data . Some understanding from the data was received such as, We have 8061 unique Book Title & The top most book title found is Wild Animus. We have 4249 unique Authors & The top most author found is Nora Roberts. We have 1075 unique 
- Publishers & The top most Publisher found is Pocket. Most books were published in the year of 2002.
+Exploratory data analysis (EDA) was performed to gain better understanding about the data . Some understanding from the data was received such as, We have 8061 unique Book Title & The top most book title found is Wild Animus. We have 4249 unique Authors & The top most author found is Nora Roberts. We have 1075 unique Publishers & The top most Publisher found is Pocket. Most books were published in the year of 2002.
 
 Models experimented with:
 
 1.	k-Nearest Neighbors (kNN)
-2.	
-3.	Singular Value Decomposition (SVD):
+2.	Singular Value Decomposition (SVD):
 
 
 Conclusion: 
