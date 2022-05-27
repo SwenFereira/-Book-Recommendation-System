@@ -8,17 +8,23 @@ The Book-Crossing dataset comprises 3 files.
 
 1. Users:
  
+
 ● Data set Contains ‘User-ID’ , ‘Location’, ‘Age’ information’s. 
+
 ● The Data set Contains 278858 Rows
  
 2. Ratings:
 
+
 ● Data set Contains ‘User-ID’ , ‘ISBN’, ‘Book-Ratings’ information’s. 
+
 ● The Data set Contains 1149780 Rows
 
 3. Books:
 
+
 ● Data set Contains 'ISBN', 'Book-Title', 'Book-Author', 'Year-Of-Publication', 'Publisher', 'Image-URL-S', 'Image-URL-M', 'Image-URL-L‘ information’s. 
+
 ● The Data set Contains 271354 Rows.
 
 The project is executed in 5 main steps:
